@@ -1,3 +1,5 @@
+# 0 represents an empty space
+
 board = [
     [8, 6, 0, 0, 2, 0, 0, 0, 0],
     [0, 0, 0, 7, 0, 0, 0, 5, 9],
