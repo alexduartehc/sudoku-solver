@@ -21,5 +21,9 @@ Easily customizable for different inputs and tables of any size
 
 (5) Repeat until the board is complete or determined unsolvable.
 
+### Demo
+
+![Sudoku Solver Demo](sudoku_demo.gif)
+
 ## Disclaimer
 Feel free to modify the solutions and create your own implementations of each applied exercise.
